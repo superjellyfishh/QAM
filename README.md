@@ -1,2 +1,2 @@
-# joanburgy-icloud.com
-Quantitative Asset Management
+# Quantitative Asset Management
+Repository for our project
